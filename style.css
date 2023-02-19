@@ -22,10 +22,32 @@ nav a:hover {
   color: burlywood;
 }
 
+main {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
 
+main aside {
+  width: 30%;
+  margin-left: 50px;
+  margin-top: 80px;
+  display: flex;
+}
 
+main aside li {
+  margin-bottom: 20px;
+  text-align: left;
+}
 
+main section {
+  width: 70%;
+  margin-right: 50px;
+  margin-top: 80px;
+  display: flex;
+}
 
-footer{
-    background-color: grey;
+footer {
+  background-color: grey;
 }
