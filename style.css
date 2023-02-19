@@ -48,6 +48,15 @@ main section {
   display: flex;
 }
 
+
+main article p{
+    margin-left: 50px;
+    margin-top: 50px;
+    text-align: left;
+  }
+
+  
+
 footer {
   background-color: grey;
 }
